@@ -1,0 +1,6 @@
+﻿body{margin: 0; padding: 0; background: url(images/bg.png) top center #ebebeb; font-family: Arial, Helvetica CE, Sans-Serif;color: #AAA;}
+    
+#intro {width: 100%; text-align: center; margin: 100px 0 120px 0; font-size: 1em; }
+#intro .loading {margin-bottom: 30px; }
+#intro .text {font-size: 2.5em; color: rgb(70, 70, 70);}
+.footer {color: #AAA; font-size: 11px; margin: 415px 0 15px 0; width: 100%; text-align: center;position: fixed;bottom: 0;}
