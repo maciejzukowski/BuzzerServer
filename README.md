@@ -34,7 +34,6 @@ I created a frontend that users connect to which kicks off a message to the PI. 
 
 ## TODO
 * Security with password
-* dynamic ip address for frontend server
 
 ## Pictures
 **Intercom & PI & USB Relay**
