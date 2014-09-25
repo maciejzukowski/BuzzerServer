@@ -37,6 +37,14 @@ I created a frontend that users connect to which kicks off a message to the PI. 
 * dynamic ip address for frontend server
 
 ## Pictures
+**Intercom & PI & USB Relay**
+
+![](http://i.imgur.com/MuTVqQq.jpg)
+
+**Wiring**
+
+![](http://i.imgur.com/Y0JDq5H.jpg)
+
 **USB RELAY**
 
 ![](http://i.imgur.com/fEKvXbp.jpg?2)
